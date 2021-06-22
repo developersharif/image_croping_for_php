@@ -118,7 +118,7 @@ $(document).ready(function(){
     <body>
         <div class="container" align="center">
             <br />
-            <h3 align="center">Crop image before upload and insert to database using PHP Mysqli and CropperJS</h3>
+            <h3 align="center">Crop image before upload using CropperJS by {developersharif} </h3>
             <br />
             <div class="row">
 <p id="up-status"></p>
